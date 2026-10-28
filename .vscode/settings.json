@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "protolude.slnx"
+    "dotnet.defaultSolution": "PilliersDuChaos.slnx"
 }
